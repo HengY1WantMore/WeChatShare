@@ -46,7 +46,7 @@
 
 [2021-07好文分享](https://github.com/hengyi666/WeChatShare/blob/main/2021-07%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB.md)
 
-[2021-06好文分享](https://github.com/hengyi666/WeChatShare/blob/main/2021-06%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB(%E4%B8%8A).md)
+[2021-06好文分享(上)](https://github.com/hengyi666/WeChatShare/blob/main/2021-06%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB(%E4%B8%8A).md)
 
 ##  开发：
 
