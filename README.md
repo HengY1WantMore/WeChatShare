@@ -42,6 +42,8 @@
 
 相关链接🔗：
 
+[2021-10好文分享(下)]()
+
 [2021-10好文分享(上)](https://github.com/hengyi666/WeChatShare/blob/main/2021-10%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB(%E4%B8%8A).md)
 
 [2021-08好文分享](https://github.com/hengyi666/WeChatShare/blob/main/2021-08%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB.md)
@@ -54,98 +56,78 @@
 
 ##  开发：
 
-- [厉害了，用 IDEA 神器 看源码，效率真高！](https://mp.weixin.qq.com/s/uOB2XkAqg8H14CRsxaxgeQ) 作者：程序员乔戈里
-- [Nginx - 最小配置](https://mp.weixin.qq.com/s/StDwBvChOLS4bZKA4tEUuA) 作者：Linux中文社区
-
-- [40 个 Spring Boot 常用注解](https://mp.weixin.qq.com/s/-AiaPCCXKFyxR8hCaK-84Q) 作者：Java派
-
-- [为什么网络 I/O 会被阻塞？](https://mp.weixin.qq.com/s/a-8lEm7eZfZcPT_GqITv7w) 作者：苏三说技术
-
-- [面试官Redis连环13问](https://mp.weixin.qq.com/s/1JhZ-ROmycNhXv1dtdFdvA) 作者：苏三说技术
-
-- [Vue 开发者不可不知的 7 个 VS Code 扩展](https://mp.weixin.qq.com/s/gHyi5h7r9ENnfwDvIdf6QA) 作者：前端新世界
-
-- [Vue 生命周期钩子完整指南](https://mp.weixin.qq.com/s/KrtUc_5Itd7ymTxmUQfdgw) 作者：前端新世界
+- [20个首页流行布局样式,你喜欢哪个?](https://mp.weixin.qq.com/s/cre5QQmkSZhsbgb6NdXxIg) 作者：前端小智
+- [看一遍就理解：IO模型详解](https://mp.weixin.qq.com/s/bb7C6VNbq7REP9u8PsreSg) 作者： 捡田螺的小男孩
+- [CPU使用率居然到100%了？](https://mp.weixin.qq.com/s/nVF6RhNU9sasMpm4NSVnIQ) 作者：爱码有道
+- [Linux 环境变量配置汇总](https://mp.weixin.qq.com/s/8HJZ8EI0ZsQ-GxLgek_YOQ) 作者：Linux中文社区
+- [Redis 常见的 16 个使用场景](https://mp.weixin.qq.com/s/KPELUdanmcJPPThDsCqL_w) 作者：Java架构师技术
+- [Postman 最被低估的功能](https://mp.weixin.qq.com/s/-2HxLBIERN_SqYeGGaCliA) 作者：编码架构师
+- [IDEA注释模板，惊艳了！动作要快，姿势要帅！](https://mp.weixin.qq.com/s/BhwWfS0oXdSO-G0-njgzVw) 作者：程序员追风
+- [我用 JS 和 CSS 实现了 Win10 网格悬停效果](https://mp.weixin.qq.com/s/qfH985O5YoOhXIh3WsMXGA) 作者： 前端新世界
+- [数据库索引，小白连环16问](https://mp.weixin.qq.com/s/sXMYVK3hKQyi8-4ip44Zmw) 作者: 捡田螺的小男孩 
+- [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s/0ez_mkyr0i4MZd7DEN7M8A) 作者：苏三说技术
+- [手工模拟实现 Docker 容器网络！](https://mp.weixin.qq.com/s/Arcz3RWe_o0Ijw6uPWKdVw) 作者：开发内功修炼
+- [50 个 Redis 必备知识：基础知识，架构、调优和监控知识及难点解决](https://mp.weixin.qq.com/s/NZtra5BluzKP0G24wLTGtg) 作者：杰哥的IT之旅
+- [都在聊DDD, 哪里超越了MVC?](https://mp.weixin.qq.com/s/yLwiTRmZFQDNz4rlfYbicQ)  作者：Java技术迷
+- [编写干净 JavaScript 代码的 15 个小技巧](https://mp.weixin.qq.com/s/A_SKpuw4AF3e4DSNXWsPrA) 作者：前端新世界
+- [分享 19 个少见却很有用的 JS 技巧](https://mp.weixin.qq.com/s/3DJiV2XeJ4V4dBdK9Yqs1w) 作者：前端新世界
+- [深入理解 Linux I/O 系统](https://mp.weixin.qq.com/s/Sfq0qBNHT-jQn8IkioU4Hg) 作者：杰哥的IT之旅
+- [SQL 常用脚本整理](https://mp.weixin.qq.com/s/l82Pmtd_V88qJmSbuAmWqA) 作者：杰哥的IT之旅
 
 ###  Python：
 
-- [值得收藏的30道Python练手题（附详细答案）](https://mp.weixin.qq.com/s/TQ7GO9px0kZPVrWrAn5fog) 作者： 法纳斯特
-
-- [Python爬虫实战 | 利用多线程爬取 LOL 高清壁纸](https://mp.weixin.qq.com/s/6_IFjRaD6fJuAaOF01Pl5A) 作者：杰哥的IT之旅
-
-- [精选 15 个顶级 Python 库，你必须要试试！](https://mp.weixin.qq.com/s/mx3FUcGXFj0DJJKmynSnGg)作者：菜J学Python
-
-- [Pycharm 常用快捷键大全【快查字典版】](https://mp.weixin.qq.com/s/RRu7zsP0tRLa5edpkrBSuw) 作者：菜J学Python
-
-- [震惊了！每30秒学会一个Python小技巧，Github星数4600+ ](https://mp.weixin.qq.com/s/MAHcu2Uz42qumlZjAywnug)作者：Python进击者
-
-- [效率神器：快速定位运行最慢的代码](https://mp.weixin.qq.com/s/sqb3nLnQYcxYgZ9U32i-hw) 作者：开源前哨
-
-- [教你用Python绘制炫酷专业插图~~](https://mp.weixin.qq.com/s/GXLuBvQD3s0MexWKES9rYQ) 作者：DataCharm
+- [提高效率的 40 个 Python 小技巧，拿来即用！](https://mp.weixin.qq.com/s/4p7VE6lQWzWfOmsj_IRytw) 作者：菜J学Python
+- [我把 Python 协程的本质扒得干干净净！](https://mp.weixin.qq.com/s/AhC4xyKjIPiJ5jo0XSii1Q) 作者：菜鸟学Python
+- [Python下载视频的三种姿势](https://mp.weixin.qq.com/s/sxIDMHg-X9U2EUspa8shLQ) 作者：可以叫我才哥
+- [利用可视化神器 Plotly 绘制酷炫图表](https://mp.weixin.qq.com/s/Ol2HqauwoeWOY6NWBG1f-g) 作者：菜J学Python
+- [3w+字，Python办公自动化之Excel报表自动化，看这一篇就够了！](https://mp.weixin.qq.com/s/71SomVRVvHdowLEUj9s2vA) 作者：Python研究者
+- [5行Python实现验证码识别，太稳了！](https://mp.weixin.qq.com/s/6FjhxN72vzYWoqqsC_JwcA) 作者：Python研究者
+- [非常实用的 Python 库，推一次火一次！](https://mp.weixin.qq.com/s/cEbcrnRHuZh1uyw8SSYPSg) 作者：法纳斯特
+- [Github 上的 Python 精品学习资源 | 收藏合集！](https://mp.weixin.qq.com/s/pc9VtvxShgSE2y3EaN18jQ) 作者：编译师
+- [24 个好用到爆的 Python 实用技巧！](https://mp.weixin.qq.com/s/iZw3RmWIiQZa9kO5bDUINw) 作者：法纳斯特
+- [30 个 Python 函数，加速你的数据分析处理速度！](https://mp.weixin.qq.com/s/a184i8ksOF4iOYPxbfg72A) 作者：菜J学Python
+- [输出好看的表格，就用这个 Python 库！](https://mp.weixin.qq.com/s/g9yy7uE4lexGu3zaGrLBmg) 作者：法纳斯特
+- [震惊了！每30秒学会一个Python小技巧，Github星数4600+](https://mp.weixin.qq.com/s/OWR4pP-rBjzWfbzjd8hsEg) 作者：Python研究者
+- [别再问我exe反编译成Python脚本了！](https://mp.weixin.qq.com/s/Qacl1KQJVPSNVq6LdsrDaQ) 作者：Python客栈
+- [20个必不可少的Python库也是基本的第三方库](https://mp.weixin.qq.com/s/keOEKhqLwWY7U8CMbpNZKQ) 作者：python教程
+- [Python 爬虫遇到中文乱码？盘点 3 种方法帮你轻松搞定！](https://mp.weixin.qq.com/s/Q9jHwiMi5VIf-BaB4AiHhw) 作者：菜J学Python
+- [别再问我Python可视化如何配色了！](https://mp.weixin.qq.com/s/lsJcBWy51zFnHQy5Yy69Cw) 作者：法纳斯特
+- [13个好用到起飞的Python技巧！](https://mp.weixin.qq.com/s/ERfIA07u9csm-yvdTg_o2Q) 作者：法纳斯特
+- [11个好用到起飞的「Python字典」知识点！](https://mp.weixin.qq.com/s/fEFQxjr3uWnPP0tdEyP21A) 作者：法纳斯特
+- [再见Tkinter，这款GUI神器值得拥有！](https://mp.weixin.qq.com/s/Z7PcwH05e6DI7lWA2iN-EQ) 作者：Python客栈
+- [最全面的Python重点知识汇总，建议收藏！](https://mp.weixin.qq.com/s/CBfjrHhq6kjae2gOlnG_bg) 作者：程序员编程基地
+- [实用！34个Python 自动化办公库清单](https://mp.weixin.qq.com/s/wltRsdmedEIL9WyNWUGqxA) 作者：Python研究者
 
 ###  工具推荐：
 
-- [16k Star！一个开源的命令行视频播放器](https://mp.weixin.qq.com/s/l_Kzuqi4wf1945owRLyOgQ) 作者：开源前哨
-
-- [墙裂推荐！Pycharm里6大神器插件！](https://mp.weixin.qq.com/s/gZTbNXStTpXs-MHCcrMq-A) 作者：菜鸟学Python
-- [GitHub热榜：不用PS一键去除照片中的对象，「万物隐身」，这个神器可试玩](https://mp.weixin.qq.com/s/E4eHwKNW5xZo6gs--m_PSA) 作者：编译师
-
-- [14k Star！一个快速、安全、高效的备份程序！](https://mp.weixin.qq.com/s/vsWYpyo3Iee8YFuxzaLjYw) 作者：开源前哨
-
-###  数据绘图处理：
-
-- [肝了3天，整理了90个Pandas案例，强烈建议收藏！](https://mp.weixin.qq.com/s/P9JIoflLRnT7pPEDBw_LUQ) 作者：Python客栈
-
-- [python数据科学系列：numpy入门详细教程](https://mp.weixin.qq.com/s/eISwSLKhuODgbe3zqP7R0w) 作者：小数志
-
-- [python数据科学系列：pandas入门详细教程](https://mp.weixin.qq.com/s/OHflBhjPj46GT5t1532cnw) 作者：小数志
-- [对比Excel，轻松学习Python报表自动化实战！](https://mp.weixin.qq.com/s/T3wH21LCxQCYo2TxwW6xmw) 作者： 法纳斯特
-
-- [干货！推荐3 个Pandas数据探索分析神器！](https://mp.weixin.qq.com/s/k6VQfGzVZzcI2rZs6DkBlg) 作者：法纳斯特
-
-- [精选 30 个炫酷的数据可视化大屏(含源码)，拿走就用！](https://mp.weixin.qq.com/s/2PI-5k979DthlBD_DUUJBA) 作者：菜J学Python
-
-- [多达40个Python可视化图表案例，强烈建议收藏~~](https://mp.weixin.qq.com/s/Feyz8dJ0A0MqkF6JUDgqIA) 作者：DataCharm
+- [我私藏的那些实用的终端命令行工具](https://mp.weixin.qq.com/s/VKdS3QsyXAo9OpWYQsMSGQ) 作者：Python进击者
+- [GitHub 开源的超简单头像生成器，网友：好Q啊](https://mp.weixin.qq.com/s/pWHqpegvTZ28lmjdpykiAw) 作者：开源前哨
+- [分享工作中常用的 8 款工具 (工作效率嗷嗷提升)](https://mp.weixin.qq.com/s/kfpxoWIniP_ltxcHIHV_dw) 作者：后端架构师
+- [5 分钟，使用内网穿透快速实现远程桌面](https://mp.weixin.qq.com/s/2B6moO5r3t-BhcY0WYeK_Q) 作者：Python研究者
+- [看片必备！24帧视频提升到240帧，比德芙还丝滑](https://mp.weixin.qq.com/s/rXeomknS1P_2ko49nr3UFw) 作者：电手
+- [零代码爬虫神器 -- Web Scraper 的使用！](https://mp.weixin.qq.com/s/h2WfbVRnw93o8Eli4mEklg) 作者：法纳斯特
+- [2021 年 GitHub 最佳开源软件榜单](https://mp.weixin.qq.com/s/LTHIfSwV5i7I3iXK7ZE7-Q) 作者：Github喵
+- [这 5 个 APP 开源了！](https://mp.weixin.qq.com/s/BOc-kKEB7sWAUKBVv8R9WQ) 作者：逛逛GitHub
+- [微软开源的可视化神器，上手太酷炫了！](https://mp.weixin.qq.com/s/NQa6W7sSHecxnAw15v5o0g) 作者：法纳斯特
+- [7.8k Star！一个强大的 JS 代码混淆工具](https://mp.weixin.qq.com/s/pJTCN-NAD9-hgoJc-LbK0Q) 作者：开源前哨
 
 ###  安全：
 
-- [蚁剑原理与魔改](https://mp.weixin.qq.com/s/HKOX7JAi7rYr4QgHHs1C-Q) 作者：Qingy之安全
-
-- [JWT 和 JJWT，别再傻傻分不清了！](https://mp.weixin.qq.com/s/Bkq48YowcO2pFdy74ZLFQw) 作者：程序员乔戈里
-
-- [WebShell攻击，你应该了解的那些事儿](https://mp.weixin.qq.com/s/re-zE5S1Ti4KgIsPppOAZQ) 作者：安芯网盾
-
-- [记一次内网靶场实战](https://mp.weixin.qq.com/s/-MKA6lZFoYdI-MMWS9Hifw) 作者：ZAC安全
-
-- [Fofa 查询脚本](https://mp.weixin.qq.com/s/WpzWdaYUXap-zxINxfoT3Q) 作者：Khan安全攻防实验室
-
-###  人工智能：
-
-- [GitHub万星的中文机器学习资源：路线图、视频、电子书、学习建议全在这](https://mp.weixin.qq.com/s/RzDvyfi3qwEFkLxEUx39wg) 作者：编译师
+- [西湖论剑-WriteUp](https://mp.weixin.qq.com/s/HSLnu1pmTZ7AYxMM8oNBaw) 作者：ChaMd5安全团队
+- [L3CTF-WriteUp](https://mp.weixin.qq.com/s/UvUNyZuK0kAcfyto06Xx4g) 作者：ChaMd5安全团队
+- [PowerShell攻击的种种，你知多少？](https://mp.weixin.qq.com/s/sem5bF93KpR-tygfweQPBg) 作者：安芯网盾
+- [你可能没那么了解 JWT](https://mp.weixin.qq.com/s/1z1Q4NAjF_7-WBI0vH4Y0w) 作者：爱笑的架构师
+- [攻防演练中的攻与守](https://mp.weixin.qq.com/s/E0djw8KMOIlngmCrt_AKZw) 作者：安芯网盾
+- [webshell检测总结与实例分析](https://mp.weixin.qq.com/s/PkFg6mcLQ8bmy0zCH-YHlQ) 作者：ChaMd5安全团队
 
 ###  其他：
 
-- [15张图解析 Git 各种用法，一目了然！](https://mp.weixin.qq.com/s/sHB8UYxrlwZ_FLqExubdEA) 作者：程序员编程基地
-
-- [150个优质网站推荐，每一个都是精心挑选 ！](https://mp.weixin.qq.com/s/xZ99AT0rvQuFZbzydemGVQ) 作者：趣搜软件
-
-- [运维人员常用的Linux命令汇总](https://mp.weixin.qq.com/s/r0WjSb020F4JEaP33kDIvw) 作者：Linux中文社区
-
-- [几个 Linux 耍酷命令，手把手教你如何技术撩妹！技术脱单](https://mp.weixin.qq.com/s/xdvOAtBzdrBoDFkadzsvuQ) 作者：Linux中文社区
-
-- [一经开源就爆了！谷歌这个脚本工具注定要火](https://mp.weixin.qq.com/s/ib3cqJA7t1Ffq3StBi1HXA) 作者：Java编程爱好者
-
-- [动图图解！既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/Dw0aoy3wJNX_jEq87HcPyA) 作者：假装懂编程
-
-- [国产Linux发行版再添一员，操作界面不输苹果！](https://mp.weixin.qq.com/s/KXOeUI80nftqjDPtlTjDfg) 作者：Linux中文社区
-
-- [【万字长文】吃透负载均衡](https://mp.weixin.qq.com/s/HYqxkKfUcW5ufAVM4vWBcA) 作者：高性能架构探索
-
-- [Nginx 常用配置清单](https://mp.weixin.qq.com/s/IRUaIvFkcIcK4XU70PXRyQ) 作者：Java派
-
-- [小夕0.2秒居然复制了100G文件？](https://mp.weixin.qq.com/s/mEaUSAOrvX43OGzLwLmq-g) 作者：小夕学算法
-
-- [10个 Linux 命令，让你的操作更有效率](https://mp.weixin.qq.com/s/IfHZ4NC9nNYosJpLj8VAFQ) 作者：Linux中文社区
+- [腾讯三面：40亿个QQ号码如何去重？](https://mp.weixin.qq.com/s/hXzhOSc1wEyumD8YOYc4yQ) 作者：狼王编程
+- [一分钟解决Github连接慢或者无法连接，亲测有效！](https://mp.weixin.qq.com/s/Xe0ZlrBKfy0YSq4C6VHhrw) 作者：冰河技术
+- [冰河亲自整理的Git命令汇总（建议收藏）](https://mp.weixin.qq.com/s/BojzCPOFRBktdCUtwX-Iww) 作者：冰河技术
+- [3.3k Star！实用命令行工具，自动生成更新日志文件](https://mp.weixin.qq.com/s/SRU5I83IFSVftxUGhmifmw) 作者：开源前哨
+- [常用正则表达式速查手册，建议收藏！](https://mp.weixin.qq.com/s/KNOOysaK_QiRt9CPI_TYVA) 作者：法纳斯特
+- [GitHub Go语言 , 开源书籍、学习路线图 ！](https://mp.weixin.qq.com/s/LzzB3_YheWAGmZUX8ZCpSA) 作者：编译师
 
 ##  欢迎交流 :sailboat:
 
