@@ -8,7 +8,7 @@
 
 **鄙人**：**2020级**网络空间安全**本科**学生👨‍🎓
 
-涉及领域：<font color=#41BF6C>全栈</font> <font color=#41BF6C>爬虫</font> <font color=#41BF6C>安全</font> 以及待入的<font color=red>人工智能</font>领域
+涉及领域：<font color=#41BF6C>全栈</font> <font color=#41BF6C>爬虫</font> <font color=#41BF6C>安全</font> 以及小部分<font color=red>人工智能</font>领域
 
 ——————
 
